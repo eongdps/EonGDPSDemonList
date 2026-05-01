@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "ErrorWinters",
+            "link": "https://youtu.be/yc_bG4tr9Z8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
